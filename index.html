@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.8.3/angular.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-route/1.8.3/angular-route.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="./css/home.css" />
+
+    <title>Index</title>
+    <script src="IndexController.js"></script>
+  </head>
+  <body ng-app="myApp" ng-controller="myCtrl" background="background.jpeg">
+    <header>
+      <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <img src="../img/fan/logo.png" alt="" />
+          </div>
+          <img src="../img/fan/ceiling_top-removebg-preview.png" alt="" />
+          <img src="../img/fan/pedestal_top-removebg-preview.png" alt="" />
+          <ul class="nav navbar-nav">
+            <li><a href="#/!">Home</a></li>
+            <li><a href="#!product">Product</a></li>
+            <li><a href="#!gallery">Gallery</a></li>                    
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href=""
+                >Center<span class="caret"></span
+              ></a>
+              <ul class="dropdown-menu">
+                <li><a href="#!faq">FAQ</a></li>
+                <li><a href="#!about">About Us</a></li>
+              </ul>
+            </li>
+          </ul>
+
+          <ul class="nav navbar-nav navbar-right">
+            <li>
+              <a href="#!reg"><span class="glyphicon glyphicon-user"></span> Sign Up</a>
+            </li>
+            <li>
+              <a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <section>
+      <div ng-view></div>
+    </section>
+    <footer>
+      <div class="fcontact">
+        <div>
+          <h4>Contact Us:</h4>
+          <h5>Email:<a>Nguyenlong23890@gmail.com</a></h5>
+          <h5>Phone Numbers: <a href="#">911</a></h5>
+          <h5>Address: 391 NKKN, HCM City</h5>
+        </div>
+
+        <div class="sitemap">
+          <h4>Sitemap:</h4>
+          <h5><a href="home.html">Home</a></h5>
+          <h5><a href="product.html">Product</a></h5>
+          <h5><a href="Acces.html">Accessories</a></h5>
+          <h5><a href="gallery.html">Galleries</a></h5>
+        </div>
+        <div>
+          <h3>Location:</h3>
+          <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d942.8197276284313!2d106.6822206!3d10.7904471!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528d35939c66f%3A0xe52e3ed732b15272!2sFPT%20Polytechnic%20HCM!5e1!3m2!1sen!2s!4v1676299110880!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+          <iframe
+            src="https://maps.google.com/maps?q=391A Đ. Nam Kỳ Khởi Nghĩa, Phường 14, Quận 3, Thành phố Hồ Chí Minh&t=m&z=10&output=embed&iwloc=near"
+          ></iframe>
+        </div>
+      </div>
+      <div id="copyright">
+        <b>&copy; 2023 By Team group 06. All rights reserved</b>
+      </div>
+    </footer>
+  </body>
+</html>
