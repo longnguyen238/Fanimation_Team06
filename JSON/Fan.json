@@ -1,0 +1,310 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "brand": "Asia",
+      "model": "EFS01",
+      "winglength": 100,
+      "color": "grey",
+      "wattage": "300watt",
+      "price": 2000,
+      "img": "img/fan/exhaustfan/efs1.jpg",
+      "type": "EF"
+    },
+    {
+      "id": 2,
+      "brand": "Sunhouse",
+      "model": "EFS02",
+      "winglength": 50,
+      "color": "black",
+      "wattage": "50watt",
+      "price": 1000,
+      "img": "img/fan/exhaustfan/efs2.jpg",
+      "type": "EF"
+    },
+    {
+      "id": 3,
+      "brand": "Hitachi",
+      "model": "EFS03",
+      "winglength": 50,
+      "color": "black",
+      "wattage": "100watt",
+      "price": 1000,
+      "img": "img/fan/exhaustfan/efs3.jpg",
+      "type": "EF"
+    },
+    {
+      "id": 4,
+      "brand": "Senko",
+      "model": "EFS04",
+      "winglength": 30,
+      "color": "white",
+      "wattage": "100watt",
+      "price": 600,
+      "img": "img/fan/exhaustfan/efs4.jpg",
+      "type": "EF"
+    },
+    {
+      "id": 5,
+      "brand": "Lifan",
+      "model": "EFS05",
+      "winglength": 30,
+      "color": "white",
+      "wattage": "100watt",
+      "price": 700,
+      "img": "img/fan/exhaustfan/efs5.jpg",
+      "type": "EF"
+    },
+    {
+      "id": 6,
+      "brand": "Sharp",
+      "model": "EFS06",
+      "winglength": 30,
+      "color": "yellow",
+      "wattage": "100watt",
+      "price": 800,
+      "img": "img/fan/exhaustfan/efs6.jpg",
+      "type": "EF"
+    },
+    {
+      "id": 7,
+      "brand": "Asia",
+      "model": "PFS01",
+      "color": "blue",
+      "wattage": "50watt",
+      "price": 300,
+      "img": "img/fan/pedestalfan/pfs1.jpg",
+      "type": "PF"
+    },
+    {
+      "id": 8,
+      "brand": "Sunhouse",
+      "model": "PFS02",
+      "color": "gold",
+      "wattage": "70watt",
+      "price": 500,
+      "img": "img/fan/pedestalfan/pfs2.jpg",
+      "type": "PF"
+    },
+    {
+      "id": 9,
+      "brand": "Hitachi",
+      "model": "PFS03",
+      "color": "black",
+      "wattage": "80watt",
+      "price": 600,
+      "img": "img/fan/pedestalfan/pfs3.jpg",
+      "type": "PF"
+    },
+    {
+      "id": 10,
+      "brand": "Senko",
+      "model": "PFS04",
+      "color": "black",
+      "wattage": "90watt",
+      "price": 700,
+      "img": "img/fan/pedestalfan/pfs4.jpg",
+      "type": "PF"
+    },
+    {
+      "id": 11,
+      "brand": "Lifan",
+      "model": "PFS05",
+      "color": "blue",
+      "wattage": "100watt",
+      "price": 800,
+      "img": "img/fan/pedestalfan/pfs5.jpg",
+      "type": "PF"
+    },
+    {
+      "id": 12,
+      "brand": "Sharp",
+      "model": "PFS06",
+      "color": "silver",
+      "wattage": "200watt",
+      "price": 1200,
+      "img": "img/fan/pedestalfan/pfs6.jpg",
+      "type": "PF"
+    },
+    {
+      "id": 13,
+      "brand": "Asia",
+      "model": "Wall01",
+      "winglength": 100,
+      "color": "black",
+      "wattage": "300watt",
+      "price": 1500,
+      "img": "img/fan/wallfan/wall1.jpg",
+      "type": "WA"
+    },
+    {
+      "id": 14,
+      "brand": "Sunhouse",
+      "model": "Wall02",
+      "winglength": 30,
+      "color": "brown",
+      "wattage": "50watt",
+      "price": 3000,
+      "img": "img/fan/wallfan/wall2.jpg",
+      "type": "WA"
+    },
+    {
+      "id": 15,
+      "brand": "Hitachi",
+      "model": "Wall03",
+      "winglength": 40,
+      "color": "silver",
+      "wattage": "100watt",
+      "price": 1100,
+      "img": "img/fan/wallfan/wall3.jpg",
+      "type": "WA"
+    },
+    {
+      "id": 16,
+      "brand": "Senko",
+      "model": "Wall04",
+      "winglength": 40,
+      "color": "white",
+      "wattage": "100watt",
+      "price": 1100,
+      "img": "img/fan/wallfan/wall4.jpg",
+      "type": "WA"
+    },
+    {
+      "id": 17,
+      "brand": "Lifan",
+      "model": "Wall05",
+      "winglength": 40,
+      "color": "black",
+      "wattage": "100watt",
+      "price": 1200,
+      "img": "img/fan/wallfan/wall5.jpg",
+      "type": "WA"
+    },
+    {
+      "id": 18,
+      "brand": "Sharp",
+      "model": "Wall06",
+      "winglength": 40,
+      "color": "grey",
+      "wattage": "100watt",
+      "price": 1300,
+      "img": "img/fan/wallfan/wall6.jpg",
+      "type": "WA"
+    },
+    {
+      "id": 19,
+      "brand": "Asia",
+      "model": "CFS01",
+      "winglength": 120,
+      "color": "yellow",
+      "wattage": "300watt",
+      "price": 2000,
+      "img": "img/fan/Ceilingfan/cfs1.jpg",
+      "type": "CF"
+    },
+    {
+      "id": 20,
+      "brand": "Sunhouse",
+      "model": "CFS02",
+      "winglength": 120,
+      "color": "brown",
+      "wattage": "300watt",
+      "price": 2000,
+      "img": "img/fan/Ceilingfan/cfs2.jpg",
+      "type": "CF"
+    },
+    {
+      "id": 21,
+      "brand": "Hitachi",
+      "model": "CFS03",
+      "winglength": 100,
+      "color": "brown",
+      "wattage": "200watt",
+      "price": 3000,
+      "img": "img/fan/Ceilingfan/cfs3.jpg",
+      "type": "CF"
+    },
+    {
+      "id": 22,
+      "brand": "Senko",
+      "model": "CFS04",
+      "winglength": 100,
+      "color": "brown",
+      "wattage": "200watt",
+      "price": 3000,
+      "img": "img/fan/Ceilingfan/cfs4.jpg",
+      "type": "CF"
+    },
+    {
+      "id": 23,
+      "brand": "Lifan",
+      "model": "CFS05",
+      "winglength": 100,
+      "color": "white",
+      "wattage": "200watt",
+      "price": 3000,
+      "img": "img/fan/Ceilingfan/cfs5.jpg",
+      "type": "CF"
+    },
+    {
+      "id": 24,
+      "brand": "Sharp",
+      "model": "CFS06",
+      "winglength": 120,
+      "color": "black",
+      "wattage": "300watt",
+      "price": 4000,
+      "img": "img/fan/Ceilingfan/cfs6.jpg",
+      "type": "CF"
+    },
+    {
+      "id": 25,
+      "brand": "Accessories",
+      "model": "Blade-Iron",
+      "price": 300,
+      "img": "img/fan/accessories/Blade_iron.jpg",
+      "type": "AS"
+    },
+    {
+      "id": 26,
+      "brand": "Accessories",
+      "model": "Blade-plastic",
+      "price": 50,
+      "img": "img/fan/accessories/blade_plastic.jpeg",
+      "type": "AS"
+    },
+    {
+      "id": 27,
+      "brand": "Accessories",
+      "model": "Cage",
+      "price": 50,
+      "img": "img/fan/accessories/cage.jpg",
+      "type": "AS"
+    },
+    {
+      "id": 28,
+      "brand": "Accessories",
+      "model": "IC",
+      "price": 100,
+      "img": "img/fan/accessories/ic.jpg",
+      "type": "AS"
+    },
+    {
+      "id": 29,
+      "brand": "Accessories",
+      "model": "Motor",
+      "price": 200,
+      "img": "img/fan/accessories/motor.png",
+      "type": "AS"
+    },
+    {
+      "id": 30,
+      "brand": "Accessories",
+      "model": "Roto",
+      "price": 100,
+      "img": "img/fan/accessories/roto.png",
+      "type": "AS"
+    }
+  ]
+}
