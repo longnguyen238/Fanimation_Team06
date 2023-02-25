@@ -9,9 +9,9 @@
 - Student1429420	Trần Ngọc Anh
 - Student1429538	Trần Nguyễn Thanh Toàn
 + =======================================
-+ Documentations : https://github.com/longnguyen238/Fanimation_Group06
++ Documentations : https://github.com/longnguyen238/Fanimation_Team06
 + =======================================
-+ Published website : https://longnguyen238.github.io/Fanimation_Group06/
++ Published website : https://longnguyen238.github.io/Fanimation_Team06/
 + =======================================
 + Thank you for visit our website.
 
