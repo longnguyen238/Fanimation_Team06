@@ -1,0 +1,131 @@
+.navbar-inverse {
+  font-size: 23px;
+  color: rgb(20, 0, 167);
+  text-shadow: 3px 5px 15px #ff0000;
+  background-color: #00547d6b;
+  border-color: #0142a339;
+}
+
+body {
+  background-color: #61b0ff;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+  text-shadow: 3px 5px 10px #c18400;
+  display: block;
+  font-size: 32px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
+
+.gal {
+  width: 100%;
+  display: flex;
+  display: block;
+}
+
+.gal img {
+  width: 18%;
+  margin-bottom: 5px;
+}
+
+footer {
+  background-color: #00547d6b;
+  border-color: #0142a339;
+}
+
+.fcontact {
+  width: 100%;
+  height: 150px;
+  color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.bodypic {
+  width: 100%;
+  display: flex;
+  display: block;
+}
+
+.bodypic img {
+  width: 33%;
+  margin-bottom: 5px;
+}
+
+.bodypic info {
+  width: 33%;
+  margin-bottom: 5px;
+}
+
+.flash {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.flash img {
+  width: 10%;
+  margin-left: 10px;
+}
+
+span a {
+  color: rgb(20, 0, 167);
+  text-shadow: 3px 5px 10px #e43d00;
+  float: end;
+  text-align: center;
+  align-items: center;
+}
+
+span b {
+  display: flex;
+  font-size: 18px;
+  justify-content: center;
+
+}
+
+
+
+.fil {
+  text-align: center;
+  font-size: 20px;
+}
+
+.fil b {
+  color: rgb(0, 20, 80);
+  font-size: 28px;
+}
+
+/* select {
+  border-radius: 5px;
+  border-color: rgb(34, 255, 244);
+  box-shadow: 1px 1px 1px 1px rgb(34, 255, 244);
+  margin: 2px;
+  padding: 10px 20px;
+} */
+
+h5 a {
+  color: rgb(20, 0, 167);
+  text-shadow: 3px 5px 10px #e43d00;
+}
+
+#copyright {
+  text-align: center;
+}
+
+.searchfor {
+  margin-left: 200px;
+  width: 60%;
+  color: rgb(0, 0, 101);
+  text-shadow: 10px 5px 5px #515fff;
+
+}
+
+.tinhtien td:hover {
+  background-color: rgb(253, 255, 119);
+}

@@ -1,0 +1,64 @@
+.name-gr {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100px;
+    color: rgb(18, 17, 17);
+    font-weight: 300;
+  }
+  
+  .card-about {
+    display: flex;
+    justify-content: space-around;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(350px,1fr));
+    gap: 30px;
+  }
+  
+  .card-sum {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+  }
+  
+  .card__stt0 {
+    margin-top: 10px;
+    font-style: italic;
+  }
+  .card__stt {
+    margin-top: -10px;
+    font-style: italic;
+  }
+  .card__img {
+    border-radius: 10px;
+  }
+  .card {
+    text-align: left;
+    display: flex;
+    background-color: rgb(232, 232, 241);
+    width: 300px;
+    height: 600px;
+    margin: 1rem 2rem;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex-shrink: inherit;
+    align-items: center;
+    border-radius: 20px;
+    float: left;
+    padding: 4rem;
+  }
+  .about-img {
+    margin-top: 10px;
+    width: 220px;
+    height: 400px;
+  }
+  .footer-end {
+    text-align: center;
+    text-shadow: grey 2px 2px 2px;
+    text-transform: capitalize;
+  }
+  .stt {
+    text-align: center;
+    font-size: 18px;
+  }
+  
