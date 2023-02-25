@@ -1,0 +1,52 @@
+Filter:
++ Categories, Type, Color, Brand, Price
+
+- Categories: Fan - Accessories
+
+Data: Brand, Model Name, wing length, Color, Wattage, Warranty, Price
+
+Pedestal fans:
+
+Asia,PFS01, 40cm, green, 50watt, 12month, 300
+Sunhouse,PFS02, 40cm, gold, 70watt, 12month, 500
+Hitachi,PFS03, 40cm, black, 80watt, 12month, 600
+Senko,PFS04, 40cm, black, 90watt, 12month,700
+Lifan,PFS05, 40cm, blue, 100watt, 12 month, 800
+Sharp,PFS06, 60cm, silver, 200watt, 12month, 1200
+
+Ceiling Fans:
+
+Asia, CFS01, 120cm, yellow, 300watt, 12month,2000
+Sunhouse, CFS02,120cm,brown,300watt, 12month,2000
+Hitachi, CFS03, 100cm,brown,200watt, 12month,3000
+Senko, CFS04, 100cm,brown,200watt, 12month,3000
+Lifan, CFS05, 100cm,white,200watt, 12month,3000
+Sharp, CFS06, 120cm,black,300watt, 12month,4000
+
+Wall fans: 
+
+Asia, WALL01, 100cm,black,300watt, 12month,1500
+Sunhouse,WALL02,30cm,brown,50watt, 12month,3000
+Hitachi,WALL03,40cm,silver,100watt, 12month,1100
+Senko,WALL0440cm,white,100watt, 12month,1000
+Lifan,WALL05,40cm,black,100watt, 12month,1200
+Sharp,WALL06,40cm,grey,100watt, 12month,1300
+
+Exhaust fans:
+
+Asia, EFS01,100cm, grey,300watt, 12month, 2000
+Sunhouse,EFS02,50cm, black,150watt, 12month,1000
+Hitachi,EFS03,50cm,black,150watt, 12month,1000
+Senko,EFS04,30cm,white,100watt, 12month,600
+Lifan,EFS05,30cm,white,100watt, 12month,700
+Sharp,EFS06,30cm, yellow,100watt, 12month,800
+
+
+Accessories:
+
+description: Change Items
+blade metal, 300
+blade plastic, 50
+ic, 100
+motor, 200
+roto, 100
