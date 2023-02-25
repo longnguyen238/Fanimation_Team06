@@ -12,21 +12,22 @@
     <link rel="stylesheet" href="./css/home.css" />
 
     <title>Index</title>
-    <script src="IndexController.js"></script>
+    <script src="IndexController1.js"></script>
   </head>
   <body ng-app="myApp" ng-controller="myCtrl" background="background.jpeg">
     <header>
       <nav class="navbar navbar-inverse">
         <div class="container-fluid">
           <div class="navbar-header">
-            <img src="../img/fan/logo.png" alt="" />
+            <img src="img/fan/logo.png" alt="" />
           </div>
-          <img src="../img/fan/ceiling_top-removebg-preview.png" alt="" />
-          <img src="../img/fan/pedestal_top-removebg-preview.png" alt="" />
+          <img src="img/fan/ceiling_top-removebg-preview.png" alt="" />
+          <img src="img/fan/pedestal_top-removebg-preview.png" alt="" />
           <ul class="nav navbar-nav">
             <li><a href="#/!">Home</a></li>
             <li><a href="#!product">Product</a></li>
-            <li><a href="#!gallery">Gallery</a></li>                    
+            <li><a href="#!gallery">Gallery</a></li> 
+                                 
             <li class="dropdown">
               <a class="dropdown-toggle" data-toggle="dropdown" href=""
                 >Center<span class="caret"></span
@@ -43,8 +44,9 @@
               <a href="#!reg"><span class="glyphicon glyphicon-user"></span> Sign Up</a>
             </li>
             <li>
-              <a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a>
+              <a href="#!reg"><span class="glyphicon glyphicon-log-in"></span> Login</a>
             </li>
+            <li><a class="glyphicon glyphicon-shopping-cart" href="#!cart"></a></li>
           </ul>
         </div>
       </nav>
@@ -63,13 +65,13 @@
 
         <div class="sitemap">
           <h4>Sitemap:</h4>
-          <h5><a href="home.html">Home</a></h5>
-          <h5><a href="product.html">Product</a></h5>
-          <h5><a href="Acces.html">Accessories</a></h5>
-          <h5><a href="gallery.html">Galleries</a></h5>
+          <h5><a href="#/!">Home</a></h5>
+          <h5><a href="#!product">Product</a></h5>
+          <h5><a href="#!about">About Us</a></h5>
+          <h5><a href="#!gallery">Galleries</a></h5>
         </div>
         <div>
-          <h3>Location:</h3>
+          <!-- <h3>Location:</h3> -->
           <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d942.8197276284313!2d106.6822206!3d10.7904471!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528d35939c66f%3A0xe52e3ed732b15272!2sFPT%20Polytechnic%20HCM!5e1!3m2!1sen!2s!4v1676299110880!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
           <iframe
             src="https://maps.google.com/maps?q=391A Đ. Nam Kỳ Khởi Nghĩa, Phường 14, Quận 3, Thành phố Hồ Chí Minh&t=m&z=10&output=embed&iwloc=near"
