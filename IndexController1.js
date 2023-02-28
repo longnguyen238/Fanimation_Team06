@@ -24,7 +24,10 @@ a.config(function ($routeProvider) {
     })
     .when("/cart", {
       templateUrl: "cart.html",
-    });
+    })
+    .when("/login", {
+      templateUrl: "login.html"
+    })
 });
 
 a.run(function ($rootScope, $http) {
